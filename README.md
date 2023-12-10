@@ -1,4 +1,4 @@
-# KMeans-Clustering-Airline-Customer-Value-Analysis
+# KMeans Clustering Airline Customer Value Analysis
 
 ![kmeans-clustering](https://github.com/Rizal-A/KMeans-Clustering-Airline-Customer-Value-Analysis/blob/main/assets/kmeans-clustering.png)
 This repository is related to clustering airline customer analysis using the Kmeans Clustering method to create customer segmentation using the LRFMC model.
